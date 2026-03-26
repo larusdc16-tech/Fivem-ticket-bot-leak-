@@ -1,0 +1,69 @@
+{
+  "lastId": 6,
+  "siparisler": [
+    {
+      "id": 1,
+      "musteri": {
+        "id": "1058448704035627139",
+        "username": "hz.alvarxd"
+      },
+      "islemTuru": "sᴀᴛıɴ ᴀʟıᴍ",
+      "paket": "Lite Pack",
+      "tutar": 500,
+      "tarih": "2025-07-07T01:21:15.171Z"
+    },
+    {
+      "id": 2,
+      "musteri": {
+        "id": "1391549555626999838",
+        "username": "Hype ticket botu deneme"
+      },
+      "islemTuru": "sᴀᴛıɴ ᴀʟıᴍ",
+      "paket": "Full Pack",
+      "tutar": 500,
+      "tarih": "2025-07-07T01:25:11.369Z"
+    },
+    {
+      "id": 3,
+      "musteri": {
+        "id": "1391549555626999838",
+        "username": "hype ticket botu deneme"
+      },
+      "tutar": 500,
+      "tarih": "2025-07-07T01:25:41.872Z"
+    },
+    {
+      "id": 4,
+      "musteri": {
+        "id": "1284808688770482178",
+        "username": "luxir00t"
+      },
+      "islemTuru": "sᴀᴛıɴ ᴀʟıᴍ",
+      "paket": "Full Pack",
+      "tutar": 500,
+      "tarih": "2025-07-07T01:27:36.863Z"
+    },
+    {
+      "id": 5,
+      "musteri": {
+        "id": "1284808688770482178",
+        "username": "luxir00t"
+      },
+      "islemTuru": "sᴀᴛıɴ ᴀʟıᴍ",
+      "paket": "Full Pack",
+      "tutar": 500,
+      "tarih": "2025-07-07T02:45:04.986Z"
+    },
+    {
+      "id": 6,
+      "musteri": {
+        "id": "1396913479264239788",
+        "username": "darkcxn"
+      },
+      "islemTuru": "sᴀᴛıɴ ᴀʟıᴍ",
+      "paket": "Full Pack",
+      "tutar": 1000,
+      "tarih": "2025-12-17T16:23:12.950Z"
+    }
+  ]
+}
